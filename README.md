@@ -1,18 +1,45 @@
-# assignment1_tutedude
-This is the assignment 1 folder where task 1 and taask 2 are available.
-# Task 1 :
-I have wrote a python prograam that does the following :
-1.  Takes two numbers as input from the user. ( By using Input function and type conversion)
-2.  Performs the basic mathematical operations on these two numbers:(By using arthimetic operators)
-o	Addition
-o	Subtraction
-o	Multiplication
-o	Division
-3.  Displays the results of each operation on the screen.(By using print )
+# Assignment 1 - TuteDude
 
-#Task 2:
-I have wrote a Python program that:
-1.  Takes a user's first name and last name as input.(By using input)
-2.  Concatenates the first name and last name into a full name.(using + operator i concat the names )
-3.  Prints a personalized greeting message using the full name.(usinng print)
+This repository contains Assignment 1 with two Python programming tasks.
 
+## Task 1: Basic Calculator
+
+A Python program that performs basic mathematical operations on two user-entered numbers.
+
+### Features:
+- Takes two numbers as input from the user using input function and type conversion
+- Performs basic mathematical operations using arithmetic operators:
+  - Addition
+  - Subtraction
+  - Multiplication
+  - Division
+- Displays the results of each operation using print statements
+
+### Usage:
+```python
+python task1.py
+```
+
+## Task 2: Personalized Greeting
+
+A Python program that creates a personalized greeting message using the user's name.
+
+### Features:
+- Takes user's first name and last name as input using input function
+- Concatenates the first name and last name into a full name using the + operator
+- Prints a personalized greeting message using the full name
+
+### Usage:
+```python
+python task2.py
+```
+
+## Getting Started
+
+1. Clone this repository
+2. Navigate to the assignment1_tutedude directory
+3. Run the desired task file using Python
+
+## Requirements
+
+- Python 
